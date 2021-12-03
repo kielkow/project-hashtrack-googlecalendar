@@ -1,0 +1,12 @@
+{
+    "googleCredentials": {
+        "user_email": "",
+        "client_id": "",
+        "client_secret": "",
+        "refresh_token": ""
+    },
+    "hashTrackCredentials": {
+        "username": "",
+        "password": ""
+    }
+}
